@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  eth: MyText
+  btc: MyText
+  bch: MyText
+  ltc: MyText
+  dash: MyText
+  etc: MyText
+  zec: MyText
+
+two:
+  eth: MyText
+  btc: MyText
+  bch: MyText
+  ltc: MyText
+  dash: MyText
+  etc: MyText
+  zec: MyText

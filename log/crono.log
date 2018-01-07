@@ -1,0 +1,565 @@
+# Logfile created on 2018-01-07 13:04:26 -0800 by logger.rb/53141
+I, [2018-01-07T13:05:10.563070 #81618]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:05:10.563331 #81618]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:05:10.563499 #81618]  INFO -- : Jobs:
+I, [2018-01-07T13:05:10.563926 #81618]  INFO -- : 'Bittrexcrono' with rule 'every 5 seconds' next time will perform at 2018-01-07 21:05:15 UTC
+I, [2018-01-07T13:05:40.546122 #81745]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:05:40.546223 #81745]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:05:40.546256 #81745]  INFO -- : Jobs:
+I, [2018-01-07T13:05:40.546374 #81745]  INFO -- : 'Bittrexcrono' with rule 'every 5 seconds' next time will perform at 2018-01-07 21:05:45 UTC
+I, [2018-01-07T13:05:45.546661 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:05:45.547950 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:05:50.547333 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:05:50.549232 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:05:55.547951 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:05:55.548272 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:00.548369 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:00.549384 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:05.549037 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:05.549654 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:10.549981 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:10.550452 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:15.550547 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:15.551951 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:20.551470 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:20.552651 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:25.552296 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:25.553968 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:30.553484 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:30.554694 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:35.553942 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:35.554582 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:40.555042 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:40.555712 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:45.556314 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:45.557395 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:50.557651 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:50.558134 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:06:55.558177 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:06:55.559362 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:00.558657 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:00.559694 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:05.559324 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:05.560033 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:10.560069 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:10.560579 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:15.560817 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:15.563445 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:20.562390 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:20.562971 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:25.563668 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:25.564878 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:30.564714 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:30.565050 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:35.565283 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:35.565727 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:40.565783 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:40.566111 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:41.414072 #81972]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:07:41.414156 #81972]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:07:41.414188 #81972]  INFO -- : Jobs:
+I, [2018-01-07T13:07:41.414298 #81972]  INFO -- : 'Bittrexcrono' with rule 'every 5 seconds' next time will perform at 2018-01-07 21:07:46 UTC
+I, [2018-01-07T13:07:45.566258 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:45.567425 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:50.566799 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:50.568888 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:07:55.567624 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:07:55.568245 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:00.568697 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:00.570067 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:05.569232 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:05.569914 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:10.570528 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:10.571799 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:15.571035 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:15.572217 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:20.572042 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:20.572988 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:25.573388 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:25.574064 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:30.574448 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:30.577189 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:35.575527 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:35.578705 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:40.576481 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:40.576978 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:45.577423 #81752]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:08:45.578636 #81752]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:08:47.110963 #82068]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:08:47.111010 #82068]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:08:47.111039 #82068]  INFO -- : Jobs:
+I, [2018-01-07T13:08:47.111181 #82068]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:09:02 UTC
+I, [2018-01-07T13:08:54.093665 #82083]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:08:54.093760 #82083]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:08:54.093806 #82083]  INFO -- : Jobs:
+I, [2018-01-07T13:08:54.093935 #82083]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:09:09 UTC
+I, [2018-01-07T13:09:09.094467 #82090]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:09:09.100879 #82090] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for #<Bittrexcrono:0x0055ce59904228>
+E, [2018-01-07T13:09:09.101256 #82090] ERROR -- : /home/cris/Workspace/Projectzeus/config/cronotab.rb:24:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:09:24.096010 #82090]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:09:24.102153 #82090] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for #<Bittrexcrono:0x0055ce5976ba88>
+E, [2018-01-07T13:09:24.102462 #82090] ERROR -- : /home/cris/Workspace/Projectzeus/config/cronotab.rb:24:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:09:39.097266 #82090]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:09:39.103709 #82090] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for #<Bittrexcrono:0x0055ce596f1648>
+E, [2018-01-07T13:09:39.104158 #82090] ERROR -- : /home/cris/Workspace/Projectzeus/config/cronotab.rb:24:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:09:54.098264 #82090]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:09:54.103975 #82090] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for #<Bittrexcrono:0x0055ce5967b9e8>
+E, [2018-01-07T13:09:54.104647 #82090] ERROR -- : /home/cris/Workspace/Projectzeus/config/cronotab.rb:24:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:10:00.288267 #82172]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:10:00.288374 #82172]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:10:00.288405 #82172]  INFO -- : Jobs:
+I, [2018-01-07T13:10:00.288563 #82172]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:10:09 UTC
+I, [2018-01-07T13:10:08.197959 #82186]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:10:08.198029 #82186]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:10:08.198059 #82186]  INFO -- : Jobs:
+I, [2018-01-07T13:10:08.198170 #82186]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:10:09 UTC
+I, [2018-01-07T13:10:09.001268 #82193]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:10:09.007573 #82193] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for #<Bittrexcrono:0x0055cf76435850>
+E, [2018-01-07T13:10:09.007901 #82193] ERROR -- : /home/cris/Workspace/Projectzeus/config/cronotab.rb:24:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:10:24.001758 #82193]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:10:24.003195 #82193] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for #<Bittrexcrono:0x0055cf762afe68>
+E, [2018-01-07T13:10:24.003237 #82193] ERROR -- : /home/cris/Workspace/Projectzeus/config/cronotab.rb:24:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:10:39.003088 #82193]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:10:39.008523 #82193] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for #<Bittrexcrono:0x0055cf76239290>
+E, [2018-01-07T13:10:39.012573 #82193] ERROR -- : /home/cris/Workspace/Projectzeus/config/cronotab.rb:24:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:10:54.003914 #82193]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:10:54.005966 #82193] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for #<Bittrexcrono:0x0055cf761ac610>
+E, [2018-01-07T13:10:54.006166 #82193] ERROR -- : /home/cris/Workspace/Projectzeus/config/cronotab.rb:24:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:10:55.386977 #82275]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:10:55.387086 #82275]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:10:55.387120 #82275]  INFO -- : Jobs:
+I, [2018-01-07T13:10:55.387255 #82275]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:11:09 UTC
+I, [2018-01-07T13:13:15.579901 #82462]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:13:15.579986 #82462]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:13:15.580016 #82462]  INFO -- : Jobs:
+I, [2018-01-07T13:13:15.580126 #82462]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 13:13:15 -0800
+I, [2018-01-07T13:13:15.974011 #82469]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:13:15.976061 #82469] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: undefined local variable or method `amount' for main:Object
+E, [2018-01-07T13:13:15.976131 #82469] ERROR -- : /home/cris/Workspace/Projectzeus/lib/tasks/bittrexcrono.rake:4:in `block (2 levels) in <top (required)>'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:251:in `block in execute'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:251:in `each'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:251:in `execute'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:195:in `block in invoke_with_call_chain'
+/home/cris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/monitor.rb:214:in `mon_synchronize'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:188:in `invoke_with_call_chain'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:181:in `invoke'
+/home/cris/Workspace/Projectzeus/config/cronotab.rb:23:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:13:30.975089 #82469]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:13:30.979096 #82469]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:13:45.975620 #82469]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:13:45.976681 #82469]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:14:00.976064 #82469]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:14:00.978073 #82469]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:14:15.977085 #82469]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:14:15.978332 #82469]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:14:30.978280 #82469]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:14:30.979267 #82469]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:14:45.979367 #82469]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:14:45.981524 #82469]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:15:00.980699 #82469]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:15:00.981698 #82469]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:15:08.440476 #82611]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:15:08.440562 #82611]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:15:08.440593 #82611]  INFO -- : Jobs:
+I, [2018-01-07T13:15:08.440729 #82611]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:15:16 UTC
+I, [2018-01-07T13:15:13.825674 #82623]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:15:13.825749 #82623]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:15:13.825787 #82623]  INFO -- : Jobs:
+I, [2018-01-07T13:15:13.825924 #82623]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:15:16 UTC
+I, [2018-01-07T13:15:16.000209 #82630]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:15:16.001086 #82630] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: Don't know how to build task 'development' (see --tasks)
+E, [2018-01-07T13:15:16.001142 #82630] ERROR -- : /home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task_manager.rb:59:in `[]'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:62:in `lookup_prerequisite'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:58:in `block in prerequisite_tasks'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:58:in `map'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:58:in `prerequisite_tasks'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:215:in `invoke_prerequisites'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:194:in `block in invoke_with_call_chain'
+/home/cris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/monitor.rb:214:in `mon_synchronize'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:188:in `invoke_with_call_chain'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:181:in `invoke'
+/home/cris/Workspace/Projectzeus/config/cronotab.rb:23:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:15:31.001680 #82630]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:15:31.004464 #82630]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:15:46.003076 #82630]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:15:46.006149 #82630]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:16:01.003946 #82630]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:16:01.004525 #82630]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:16:02.088494 #82716]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:16:02.088572 #82716]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:16:02.088603 #82716]  INFO -- : Jobs:
+I, [2018-01-07T13:16:02.088720 #82716]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:16:16 UTC
+I, [2018-01-07T13:16:07.156425 #82731]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:16:07.156527 #82731]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:16:07.156559 #82731]  INFO -- : Jobs:
+I, [2018-01-07T13:16:07.156718 #82731]  INFO -- : 'Bittrexcrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:16:16 UTC
+I, [2018-01-07T13:16:16.000807 #82738]  INFO -- : Perform Bittrexcrono
+E, [2018-01-07T13:16:16.003840 #82738] ERROR -- : Finished Bittrexcrono in 0.00 seconds with error: Don't know how to build task 'development' (see --tasks)
+E, [2018-01-07T13:16:16.004047 #82738] ERROR -- : /home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task_manager.rb:59:in `[]'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:62:in `lookup_prerequisite'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:58:in `block in prerequisite_tasks'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:58:in `map'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:58:in `prerequisite_tasks'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:215:in `invoke_prerequisites'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:194:in `block in invoke_with_call_chain'
+/home/cris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/monitor.rb:214:in `mon_synchronize'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:188:in `invoke_with_call_chain'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/rake-12.3.0/lib/rake/task.rb:181:in `invoke'
+/home/cris/Workspace/Projectzeus/config/cronotab.rb:23:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:16:31.001559 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:16:31.002970 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:16:46.002359 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:16:46.003213 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:17:01.003499 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:17:01.005332 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:17:16.004511 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:17:16.006036 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:17:31.005342 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:17:31.006923 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:17:46.006186 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:17:46.008244 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:18:01.007090 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:18:01.009478 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:18:16.007958 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:18:16.008637 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:18:31.008940 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:18:31.009901 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:18:46.009631 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:18:46.011148 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:19:01.010570 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:19:01.011906 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:19:16.011203 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:19:16.012509 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:19:31.012284 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:19:31.014007 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:19:46.013025 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:19:46.014965 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:20:01.014435 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:20:01.015676 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:20:16.015630 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:20:16.016556 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:20:31.016720 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:20:31.018187 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:20:46.017798 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:20:46.019283 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:21:01.018494 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:21:01.021176 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:21:16.019351 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:21:16.021037 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:21:31.020095 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:21:31.022253 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:21:46.021320 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:21:46.022777 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:22:01.022384 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:22:01.023123 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:22:16.023427 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:22:16.023958 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:22:31.024146 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:22:31.025430 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:22:46.024641 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:22:46.025657 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:23:01.025935 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:23:01.028052 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:23:16.026587 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:23:16.027937 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:23:31.027422 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:23:31.029226 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:23:46.029052 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:23:46.031587 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:24:01.030832 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:24:01.034524 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:24:16.031731 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:24:16.034144 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:24:31.033545 #82738]  INFO -- : Perform Bittrexcrono
+I, [2018-01-07T13:24:31.034118 #82738]  INFO -- : Finished Bittrexcrono in 0.00 seconds
+I, [2018-01-07T13:24:43.921061 #83247]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:24:43.921130 #83247]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:24:43.921161 #83247]  INFO -- : Jobs:
+I, [2018-01-07T13:24:43.921281 #83247]  INFO -- : 'BittrexCrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:24:46 UTC
+I, [2018-01-07T13:24:48.850153 #83259]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:24:48.850219 #83259]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:24:48.850264 #83259]  INFO -- : Jobs:
+I, [2018-01-07T13:24:48.850386 #83259]  INFO -- : 'BittrexCrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 13:24:48 -0800
+I, [2018-01-07T13:24:49.172917 #83266]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:24:53.318879 #83266] ERROR -- : Finished BittrexCrono in 4.14 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:24:53.319000 #83266] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:25:04.173865 #83266]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:25:07.874020 #83266] ERROR -- : Finished BittrexCrono in 3.70 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:25:07.874157 #83266] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:25:19.175140 #83266]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:25:22.941154 #83266] ERROR -- : Finished BittrexCrono in 3.77 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:25:22.941313 #83266] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:25:34.176225 #83266]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:25:38.465846 #83266] ERROR -- : Finished BittrexCrono in 4.29 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:25:38.466085 #83266] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:25:49.176978 #83266]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:25:53.052269 #83266] ERROR -- : Finished BittrexCrono in 3.87 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:25:53.052423 #83266] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:26:04.177754 #83266]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:26:07.502228 #83266] ERROR -- : Finished BittrexCrono in 3.32 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:26:07.502393 #83266] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:26:19.178506 #83266]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:26:22.884122 #83266] ERROR -- : Finished BittrexCrono in 3.70 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:26:22.884254 #83266] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:26:30.758252 #83436]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:26:30.758351 #83436]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:26:30.758385 #83436]  INFO -- : Jobs:
+I, [2018-01-07T13:26:30.758507 #83436]  INFO -- : 'BittrexCrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 21:26:34 UTC
+I, [2018-01-07T13:27:52.809058 #83549]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:27:52.809152 #83549]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:27:52.809186 #83549]  INFO -- : Jobs:
+I, [2018-01-07T13:27:52.809315 #83549]  INFO -- : 'BittrexCrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 13:27:52 -0800
+I, [2018-01-07T13:27:53.165077 #83556]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:27:54.836046 #83556] ERROR -- : Finished BittrexCrono in 1.67 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:27:54.836178 #83556] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:28:08.165400 #83556]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:28:09.770027 #83556] ERROR -- : Finished BittrexCrono in 1.60 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:28:09.770149 #83556] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:28:23.165905 #83556]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:28:24.766581 #83556] ERROR -- : Finished BittrexCrono in 1.60 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:28:24.766793 #83556] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:28:38.166452 #83556]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:28:39.859699 #83556] ERROR -- : Finished BittrexCrono in 1.69 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:28:39.859817 #83556] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:28:53.167166 #83556]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:28:54.774651 #83556] ERROR -- : Finished BittrexCrono in 1.61 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:28:54.775385 #83556] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:29:08.167766 #83556]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:29:09.780547 #83556] ERROR -- : Finished BittrexCrono in 1.61 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:29:09.780652 #83556] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:29:23.168409 #83556]  INFO -- : Perform BittrexCrono
+E, [2018-01-07T13:29:35.654939 #83556] ERROR -- : Finished BittrexCrono in 12.48 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:29:35.655091 #83556] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:29:38.170629 #83556]  INFO -- : Perform BittrexCrono
+I, [2018-01-07T13:29:53.170901 #83556]  INFO -- : Perform BittrexCrono
+I, [2018-01-07T13:29:53.866431 #83789]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:29:53.866517 #83789]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:29:53.866548 #83789]  INFO -- : Jobs:
+I, [2018-01-07T13:29:53.866668 #83789]  INFO -- : 'BittrexCrono' with rule 'every 15 seconds' next time will perform at 2018-01-07 13:29:53 -0800
+I, [2018-01-07T13:40:46.966761 #84537]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:40:46.966815 #84537]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:40:46.966844 #84537]  INFO -- : Jobs:
+I, [2018-01-07T13:40:46.966966 #84537]  INFO -- : 'BittrexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967101 #84537]  INFO -- : 'BinanceCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967197 #84537]  INFO -- : 'BitfinexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967271 #84537]  INFO -- : 'ExmoCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967345 #84537]  INFO -- : 'GateCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967423 #84537]  INFO -- : 'HitbtcCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967496 #84537]  INFO -- : 'KrakenCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967596 #84537]  INFO -- : 'OkexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967674 #84537]  INFO -- : 'PoloCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:40:46.967746 #84537]  INFO -- : 'ZbCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:41:46 UTC
+I, [2018-01-07T13:41:46.928778 #84544]  INFO -- : Perform BittrexCrono
+I, [2018-01-07T13:41:46.933989 #84544]  INFO -- : Perform BinanceCrono
+I, [2018-01-07T13:41:46.939410 #84544]  INFO -- : Perform BitfinexCrono
+I, [2018-01-07T13:41:46.944518 #84544]  INFO -- : Perform ExmoCrono
+I, [2018-01-07T13:41:46.946812 #84544]  INFO -- : Perform GateCrono
+I, [2018-01-07T13:41:46.951374 #84544]  INFO -- : Perform HitbtcCrono
+I, [2018-01-07T13:41:46.958348 #84544]  INFO -- : Perform KrakenCrono
+I, [2018-01-07T13:41:46.959891 #84544]  INFO -- : Perform OkexCrono
+I, [2018-01-07T13:41:46.963430 #84544]  INFO -- : Perform PoloCrono
+I, [2018-01-07T13:41:46.992578 #84544]  INFO -- : Perform ZbCrono
+E, [2018-01-07T13:41:49.679499 #84544] ERROR -- : Finished ZbCrono in 2.68 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:41:49.679746 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/zb_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:41:49.724325 #84544] ERROR -- : Finished GateCrono in 2.77 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:41:49.733024 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/gate_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:41:51.085918 #84544] ERROR -- : Finished BittrexCrono in 4.16 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:41:51.086454 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:41:51.355287 #84544] ERROR -- : Finished BinanceCrono in 4.42 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:41:51.355417 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/binance_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:41:53.299931 #84544] ERROR -- : Finished PoloCrono in 6.34 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:41:53.300080 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/polo_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:41:54.663685 #84544] ERROR -- : Finished BitfinexCrono in 7.72 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:41:54.663873 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bitfinex_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:41:57.867530 #84544] ERROR -- : Finished ExmoCrono in 10.92 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:41:57.867673 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/exmo_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:41:58.207360 #84544] ERROR -- : Finished HitbtcCrono in 11.26 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:41:58.207467 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/hitbtc_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:42:46.929625 #84544]  INFO -- : Perform BittrexCrono
+I, [2018-01-07T13:42:46.935079 #84544]  INFO -- : Perform BinanceCrono
+I, [2018-01-07T13:42:46.940113 #84544]  INFO -- : Perform BitfinexCrono
+I, [2018-01-07T13:42:46.945172 #84544]  INFO -- : Perform ExmoCrono
+I, [2018-01-07T13:42:46.948669 #84544]  INFO -- : Perform GateCrono
+I, [2018-01-07T13:42:46.951627 #84544]  INFO -- : Perform HitbtcCrono
+I, [2018-01-07T13:42:46.959642 #84544]  INFO -- : Perform KrakenCrono
+I, [2018-01-07T13:42:46.960127 #84544]  INFO -- : Perform OkexCrono
+I, [2018-01-07T13:42:46.964162 #84544]  INFO -- : Perform PoloCrono
+I, [2018-01-07T13:42:47.001803 #84544]  INFO -- : Perform ZbCrono
+E, [2018-01-07T13:42:49.352744 #84544] ERROR -- : Finished GateCrono in 2.40 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:42:49.352881 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/gate_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:42:49.517949 #84544] ERROR -- : Finished ZbCrono in 2.52 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:42:49.518696 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/zb_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:42:50.748399 #84544] ERROR -- : Finished BittrexCrono in 3.82 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:42:50.748506 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:42:51.085813 #84544] ERROR -- : Finished BinanceCrono in 4.15 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:42:51.085929 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/binance_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:42:54.353168 #84544] ERROR -- : Finished PoloCrono in 7.39 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:42:54.353340 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/polo_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:42:55.276068 #84544] ERROR -- : Finished OkexCrono in 8.31 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:42:55.280218 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/okex_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T13:42:55.805394 #84544] ERROR -- : Finished BitfinexCrono in 8.86 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T13:42:55.808210 #84544] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bitfinex_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T13:42:56.993817 #84844]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T13:42:56.993870 #84844]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T13:42:56.993898 #84844]  INFO -- : Jobs:
+I, [2018-01-07T13:42:56.993998 #84844]  INFO -- : 'BittrexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:43:47 UTC
+I, [2018-01-07T13:42:56.994069 #84844]  INFO -- : 'BinanceCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:43:47 UTC
+I, [2018-01-07T13:42:56.994138 #84844]  INFO -- : 'BitfinexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:43:47 UTC
+I, [2018-01-07T13:42:56.994248 #84844]  INFO -- : 'ExmoCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 13:42:56 -0800
+I, [2018-01-07T13:42:56.994353 #84844]  INFO -- : 'GateCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:43:47 UTC
+I, [2018-01-07T13:42:56.994422 #84844]  INFO -- : 'HitbtcCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 13:42:56 -0800
+I, [2018-01-07T13:42:56.994538 #84844]  INFO -- : 'KrakenCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:43:56 UTC
+I, [2018-01-07T13:42:56.994657 #84844]  INFO -- : 'OkexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:43:47 UTC
+I, [2018-01-07T13:42:56.994770 #84844]  INFO -- : 'PoloCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:43:47 UTC
+I, [2018-01-07T13:42:56.994869 #84844]  INFO -- : 'ZbCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 21:43:47 UTC
+I, [2018-01-07T14:25:08.486926 #87200]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T14:25:08.495240 #87200]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T14:25:08.495287 #87200]  INFO -- : Jobs:
+I, [2018-01-07T14:25:08.495415 #87200]  INFO -- : 'BittrexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.495506 #87200]  INFO -- : 'BinanceCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.495594 #87200]  INFO -- : 'BitfinexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.495662 #87200]  INFO -- : 'ExmoCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.495729 #87200]  INFO -- : 'GateCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.495796 #87200]  INFO -- : 'HitbtcCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.495875 #87200]  INFO -- : 'KrakenCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:08 UTC
+I, [2018-01-07T14:25:08.495955 #87200]  INFO -- : 'OkexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.496039 #87200]  INFO -- : 'PoloCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.496105 #87200]  INFO -- : 'ZbCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 14:25:08 -0800
+I, [2018-01-07T14:25:08.874726 #87208]  INFO -- : Perform BittrexCrono
+I, [2018-01-07T14:25:08.875286 #87208]  INFO -- : Perform BinanceCrono
+I, [2018-01-07T14:25:08.875507 #87208]  INFO -- : Perform BitfinexCrono
+I, [2018-01-07T14:25:08.875716 #87208]  INFO -- : Perform ExmoCrono
+I, [2018-01-07T14:25:08.875908 #87208]  INFO -- : Perform GateCrono
+I, [2018-01-07T14:25:08.876134 #87208]  INFO -- : Perform HitbtcCrono
+I, [2018-01-07T14:25:08.876314 #87208]  INFO -- : Perform OkexCrono
+I, [2018-01-07T14:25:08.876599 #87208]  INFO -- : Perform PoloCrono
+I, [2018-01-07T14:25:08.876983 #87208]  INFO -- : Perform ZbCrono
+E, [2018-01-07T14:25:11.522034 #87208] ERROR -- : Finished GateCrono in 2.65 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:11.529292 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/gate_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T14:25:11.547741 #87208] ERROR -- : Finished ZbCrono in 2.67 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:11.548329 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/zb_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T14:25:15.457066 #87208] ERROR -- : Finished BittrexCrono in 6.58 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:15.457235 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bittrex_crono.rb:4:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T14:25:17.016918 #87208] ERROR -- : Finished PoloCrono in 8.14 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:17.060875 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/polo_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T14:25:17.216868 #87208] ERROR -- : Finished BinanceCrono in 8.34 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:17.217084 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/binance_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T14:25:17.542193 #87208] ERROR -- : Finished BitfinexCrono in 8.67 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:17.542307 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/bitfinex_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T14:25:19.114917 #87208] ERROR -- : Finished OkexCrono in 10.24 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:19.115076 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/okex_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T14:25:20.980984 #87208] ERROR -- : Finished HitbtcCrono in 12.10 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:20.981098 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/hitbtc_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+E, [2018-01-07T14:25:21.147944 #87208] ERROR -- : Finished ExmoCrono in 12.27 seconds with error: undefined method `<<' for nil:NilClass
+E, [2018-01-07T14:25:21.148053 #87208] ERROR -- : /home/cris/Workspace/Projectzeus/app/jobs/exmo_crono.rb:3:in `perform'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:79:in `perform_job'
+/home/cris/.rvm/gems/ruby-2.3.0/gems/crono-1.1.2/lib/crono/job.rb:43:in `block in perform'
+I, [2018-01-07T14:26:05.585925 #87345]  INFO -- : Loading Crono 1.1.2
+I, [2018-01-07T14:26:05.585978 #87345]  INFO -- : Running in ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+I, [2018-01-07T14:26:05.586012 #87345]  INFO -- : Jobs:
+I, [2018-01-07T14:26:05.586094 #87345]  INFO -- : 'BittrexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC
+I, [2018-01-07T14:26:05.586224 #87345]  INFO -- : 'BinanceCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC
+I, [2018-01-07T14:26:05.586297 #87345]  INFO -- : 'BitfinexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC
+I, [2018-01-07T14:26:05.586365 #87345]  INFO -- : 'ExmoCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC
+I, [2018-01-07T14:26:05.586432 #87345]  INFO -- : 'GateCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC
+I, [2018-01-07T14:26:05.586498 #87345]  INFO -- : 'HitbtcCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC
+I, [2018-01-07T14:26:05.586581 #87345]  INFO -- : 'KrakenCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:27:05 UTC
+I, [2018-01-07T14:26:05.586660 #87345]  INFO -- : 'OkexCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC
+I, [2018-01-07T14:26:05.586730 #87345]  INFO -- : 'PoloCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC
+I, [2018-01-07T14:26:05.586796 #87345]  INFO -- : 'ZbCrono' with rule 'every 60 seconds' next time will perform at 2018-01-07 22:26:09 UTC

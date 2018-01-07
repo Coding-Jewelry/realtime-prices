@@ -1,0 +1,29 @@
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          
+          <%= link_to "Project Zeus", root_path, id: "logo", class: 'navbar-brand' %>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse pull-right">
+          <ul class="nav navbar-nav">
+            <li class="active"><%= link_to "Home", root_path %></li>
+            
+
+            
+            <% if signed_in? %>
+              <li><%= link_to "Sign out", signout_path, method: "delete" %></li>
+            <% else %>
+              <li><%= link_to "Log in", signin_path %></li>
+            <% end %>
+
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>

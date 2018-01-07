@@ -1,0 +1,182 @@
+
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <!--div class="jumbotron" style="margin-top:100px;">
+        
+        <div class='row'>
+        <div class='col-sm-6 col-sm-offset-3'>
+          < form_for(:session, url: sessions_path) do |f| %>
+
+          < f.label :domain_id >
+          < f.text_field :domain_id >
+
+          < f.label :email %>
+          < f.text_field :email, class: 'form-control' %>
+
+          < f.label :password %>
+          < f.password_field :password, class: 'form-control' %>
+
+          < f.submit "Sign in", class: "btn btn-large btn-primary" %>
+        < end %>
+        </div>
+        </div>
+      </div-->
+
+  
+
+
+<div class="jumbotron" style="margin-top:100px;border-radius:0px">
+<div class="row">
+  <div class="col-xs-12" style="margin-left:0px;padding-left:0px;">
+    <code>N/A: Not enough source to buy/sell.</code>
+  </div>
+  <div class="col-xs-12" style="margin-left:0px;padding-left:0px;">
+    <code>-: Coin is not tradeable for that exchange.</code>
+  </div>
+</div>
+  <div class='row' style="margin-top:30px;">
+  <div><span>Initial Capital:</span> <span id="capital">-</span></div>
+  <div class="col-xs-3" style="margin-left:0px;padding-left:0px;margin-top:10px;">
+  <span>e.g. 10000</span>
+    <input type="text" name="amount" class="form-control" id="amount" style="border-radius:0px"></input>
+  </div>
+  
+    <div class="col-xs-12" style="margin-left:0px;padding-left:0px;">
+      <button class="btn btn-large btn-primary" id="refresh" style="margin-top:10px;border-radius:0px;background-color: #27408B;">Refresh</button>
+    </div>
+  
+  </div>
+</div>
+
+
+
+
+
+   <div class="container">
+        
+        <div id="toolbar">
+            
+        </div>
+        <table id="table-ask"
+               data-toggle="table"
+               data-toolbar="#toolbar"
+               data-height="360"
+               data-url="">
+            <thead>
+            <tr>
+                <th data-field="id">Ask</th>
+                <th data-field="HitBtc">Hitbtc</th>
+                <th data-field="Polo">Polo</th>
+                <th data-field="Exmo">Exmo</th>
+                <th data-field="Okex">Okex</th>
+                <th data-field="Bittrex">Bittrex</th>
+                <th data-field="Kraken">Kraken</th>
+                <th data-field="Bitfinex">Bitfinex</th>
+                <th data-field="Binance">Binance</th>
+                <th data-field="Zb">Zb</th>
+                <th data-field="Gate">Gate</th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+
+       <div class="container" style="margin-top:50px;">
+        
+        <div id="toolbar-bid">
+        </div>
+        <table id="table-bid"
+               data-toggle="table"
+               data-toolbar-bid="#toolbar-bid"
+               data-height="360"
+               data-url="">
+            <thead>
+            <tr>
+                <th data-field="id">Bid</th>
+                <th data-field="HitBtc">Hitbtc</th>
+                <th data-field="Polo">Polo</th>
+                <th data-field="Exmo">Exmo</th>
+                <th data-field="Okex">Okex</th>
+                <th data-field="Bittrex">Bittrex</th>
+                <th data-field="Kraken">Kraken</th>
+                <th data-field="Bitfinex">Bitfinex</th>
+                <th data-field="Binance">Binance</th>
+                <th data-field="Zb">Zb</th>
+                <th data-field="Gate">Gate</th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+
+<script>
+    var $tableAsk = $('#table-ask'),
+        $tableBid = $('#table-bid'),
+        $button = $('#refresh');
+    $(function () {
+        $button.click(function () {
+          callexchanges();
+        });
+    });
+    function callexchanges() {
+      $.LoadingOverlay("show");
+            var asks = [],
+                bids = [];
+      
+        $.ajax({
+        url: 'main/get_data', 
+        type: 'POST',
+        data: {amount: $('#amount').val()},
+        success: function(data) { 
+          console.log(data);
+          $('#capital').html('-');
+          if (data[0].error) {
+            $('#capital').html('<span style="color:rgb(235, 43, 54);">'+data[0].error+'</span>' );
+          }else {
+            $('#capital').html('$'+$('#amount').val());
+            for (var k = 0, len=data[0].length; k < len; k++) {
+                var exc_hash = {
+                    id: data[0][k]
+                  };
+                var exc_hash2 = {
+                    id: data[0][k]
+                  };
+                for (var m = 1, len2=data.length; m < len2; m++) {
+                  if ((data[m][k]) == null) {
+                      '-'
+                  }else {
+                    exc_hash[(data[m][k][7])] = ((data[m][k][1][2] == 'OK') ? data[m][k][1][0] : data[m][k][1][2]);  
+                    exc_hash2[(data[m][k][7])] = ((data[m][k][3][2] == 'OK') ? data[m][k][3][0] : data[m][k][3][2]);  
+                  }
+
+                  
+                  
+                }
+                asks.push(exc_hash);
+                bids.push(exc_hash2);
+              }
+              
+              successfunc(asks, bids);
+          }
+
+        },
+        complete: function() {
+          $.LoadingOverlay("hide");
+        }
+        
+      });
+        
+        
+
+
+    }
+  function successfunc(asks, bids) {
+    $tableAsk.bootstrapTable('removeAll');
+    $tableBid.bootstrapTable('removeAll');
+    $tableAsk.bootstrapTable('append', asks);
+    $tableBid.bootstrapTable('append', bids);
+
+  }
+</script>
+
+
+
+
