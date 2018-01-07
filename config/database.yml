@@ -10,8 +10,8 @@ default: &default
   username: root
   password: root
   socket: /var/run/mysqld/mysqld.sock
-#  encoding: unicode
-  encoding: utf8
+  encoding: unicode
+#  encoding: utf8
   pool: 5
   timeout: 5000
 
