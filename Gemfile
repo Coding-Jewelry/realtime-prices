@@ -43,6 +43,10 @@ gem 'rename'
 gem 'crono'
 gem 'daemons'
 
+
+# Use Clockwork for cron jobs on Heroku
+gem 'clockwork'
+
 group :development, :test do
   gem 'sqlite3'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
